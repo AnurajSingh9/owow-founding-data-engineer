@@ -1,0 +1,22 @@
+[
+  {
+    "user_id": "u1",
+    "campaign": "c1",
+    "message": "I am looking for running shoes"
+  },
+  {
+    "user_id": "u2",
+    "campaign": "c1",
+    "message": "Need shoes for daily jogging"
+  },
+  {
+    "user_id": "u3",
+    "campaign": "c2",
+    "message": "Interested in gym equipment"
+  },
+  {
+    "user_id": "u1",
+    "campaign": "c3",
+    "message": "Looking for gym accessories"
+  }
+]
